@@ -4,4 +4,4 @@
 - create Groups
 - Create posts in group
 
-(Visit Star Social)[http://amritpalsingh.pythonanywhere.com/]
+[Visit Star Social](http://amritpalsingh.pythonanywhere.com/)
